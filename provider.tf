@@ -18,7 +18,7 @@ terraform {
     organization = "mcit-jaden"
 
     workspaces {
-      name = "mobility-base-storage"
+      name = "test"
     }
   }
 }

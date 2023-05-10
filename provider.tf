@@ -18,7 +18,7 @@ terraform {
     organization = "mcit-jaden"
 
     workspaces {
-      name = "test"
+      name = "mcit2023"
     }
   }
 }
